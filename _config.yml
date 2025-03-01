@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Tom Gooding's Website
-subtitle: "A home base for my blog, research projects, and portfolio"
+subtitle: "A home base for my blog, projects, and portfolio"
 email: Tom.Gooding18@gmail.com
 name: Tom Gooding
 description: >
@@ -90,19 +90,19 @@ social:
     desc: Friend me on Facebook
     share: false
 
-  - name: GitHub
-    icon: github
-    username: Tom-Gooding
-    url: https://github.com/Tom-Gooding
-    desc: Fork me on GitHub
-    share: false
-
   - name: LinkedIn
     icon: linkedin
     username: Tom Gooding
     url: https://www.linkedin.com/in/thomas-gooding-phd-atc-cscs-81767053/
     desc: Connect with me on LinkedIn
     share: true
+
+  - name: GitHub
+    icon: github
+    username: Tom-Gooding
+    url: https://github.com/Tom-Gooding
+    desc: Fork me on GitHub
+    share: false
 
   - name: Google+
     icon: google-plus
@@ -116,7 +116,7 @@ social:
     username: GoodThingsTom
     url: https://www.youtube.com/@GoodThingsTom
     desc: Subscribe on YouTube
-    share: true
+    share: false
 
   - name: Instagram
     icon: instagram
@@ -130,7 +130,7 @@ social:
     username: Tomgooding18
     url: https://www.pinterest.com/TomGooding18/
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
