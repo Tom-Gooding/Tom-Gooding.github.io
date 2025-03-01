@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "'/Users/thomasgooding/Desktop/Running away in Bozeman with Archie and Nicole copy.JPG'"
+cover: "/assets/cover_photo.JPG"
 logo: "/assets/logo.png"
 
 # Build settings
