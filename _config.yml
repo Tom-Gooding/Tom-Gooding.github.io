@@ -14,7 +14,7 @@ subtitle: "A home base for my blog, research projects, and portfolio"
 email: Tom.Gooding18@gmail.com
 name: Tom Gooding
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  A home base for my blog, projects, and portfolio.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -79,7 +79,7 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: ""
     desc: Follow me on Twitter
     share: false
 
@@ -109,14 +109,14 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
-    username: ""
-    url: ""
+    username: GoodThingsTom
+    url: https://www.youtube.com/@GoodThingsTom
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
