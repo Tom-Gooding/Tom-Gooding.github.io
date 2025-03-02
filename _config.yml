@@ -22,7 +22,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/cover_photo.JPG"
-logo: "/assets/TG_logo.png"
+logo: "/assets/TG_logo3.png"
 
 # Build settings
 markdown: kramdown
