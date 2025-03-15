@@ -12,3 +12,5 @@ categories: Exercise
 
 ### This is a third
 hello world!
+
+![field_1 image](/assets/post_photos/field_1.jpg)
