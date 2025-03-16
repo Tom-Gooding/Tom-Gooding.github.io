@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Tom Gooding's Website
-subtitle: "A home base for my blog, projects, and portfolio"
+title: The Beautiful Grind
+subtitle: "A Blog and porftolio for Tom Gooding"
 email: Tom.Gooding18@gmail.com
 name: Tom Gooding
 description: >

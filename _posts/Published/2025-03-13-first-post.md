@@ -36,7 +36,7 @@ This text is back to normal.
 <p style="text-align: center;">This text is centered.</p>
 
 
-<p style="text-align: left;">This text is centered.</p>
+<p style="text-align: left;">This text is left.</p>
 
 
 <p style="text-align: center;">This text is centered. wow this is so neat, I could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and goingI could kjust keep going and going and going and going.
@@ -47,5 +47,9 @@ but when I enter a new line I automatically go down to a left indent.
 
 asdf
 
-asfasdfadfasdf
-</p>
+asfasdfadfasdf </p>
+<p style="text-align: left;"> asdffdfdfasdf asdffd
+asfasfadfasdf
+ </p>
+
+ asdfsdasfasdfasd
