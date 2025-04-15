@@ -3,7 +3,7 @@ layout: post
 title:  "Why dogs are good for your health."
 date:   2025-04-15 08:00:00
 author: Tom Gooding
-categories: Physical_Activity
+categories: Physical-Activity
 tags: Exercise Dogs
 ---
 
