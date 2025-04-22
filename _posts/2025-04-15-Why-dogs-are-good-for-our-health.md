@@ -18,6 +18,7 @@ An effective strategy towards improving physical activity may be quite literally
 2. Having a dog can improve your immune system (Hygiene hypothesis).
 3. Dogs may work as a 'free' pregnancy test.
 
+[the boys](/assets/post_photos/The%20Boys.jpg)
 
 
 Dogs are man's best friend; it's a *tail* as old as time.
