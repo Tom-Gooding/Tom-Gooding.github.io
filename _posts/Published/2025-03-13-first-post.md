@@ -21,7 +21,7 @@ categories: Exercise
 hello world!
 ![field_1 image](/assets/post_photos/field_1.jpg)
 
-
+just some text to break up the space between image and video
  <center><iframe width="400" height="300" 
     src="https://www.youtube.com/embed/Dk21VaB6Vow?start=10" 
     frameborder="0" 

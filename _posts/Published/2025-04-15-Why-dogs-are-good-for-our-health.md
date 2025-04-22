@@ -21,11 +21,21 @@ An effective strategy towards improving physical activity may be quite literally
 
 [the boys](/assets/post_photos/The%20Boys.jpg)
 
-<img src="/assets/post_photos/The Boys.jpg"
+<center><img src="/assets/post_photos/The Boys.jpg"
      alt="Me and The Boys"
-     style="float: center;" />
+     style="float: center;" /><br>
  <br> 
  Dogs are man's best friend; it's a *tail* as old as time.
+
+trying to add space between image and text
+ <center><iframe width="400" height="300" 
+    src="https://www.youtube.com/embed/Dk21VaB6Vow?start=10" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+
 
 There is a plethora of reasons for having a dog. Some of the more obvious reasons include:
 
