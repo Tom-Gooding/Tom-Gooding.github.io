@@ -17,14 +17,15 @@ An effective strategy towards improving physical activity may be quite literally
 1. Dog ownership may increase physical activity levels.
 2. Having a dog can improve your immune system (Hygiene hypothesis).
 3. Dogs may work as a 'free' pregnancy test.
+<br>
 
 [the boys](/assets/post_photos/The%20Boys.jpg)
 
 <img src="/assets/post_photos/The Boys.jpg"
      alt="Me and The Boys"
      style="float: left;" />
- <b>
-Dogs are man's best friend; it's a *tail* as old as time.
+ <br> 
+ Dogs are man's best friend; it's a *tail* as old as time.
 
 There is a plethora of reasons for having a dog. Some of the more obvious reasons include:
 
