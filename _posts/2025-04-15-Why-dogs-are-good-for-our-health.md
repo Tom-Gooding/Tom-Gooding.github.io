@@ -23,7 +23,7 @@ An effective strategy towards improving physical activity may be quite literally
 
 <img src="/assets/post_photos/The Boys.jpg"
      alt="Me and The Boys"
-     style="float: left;" />
+     style="float: center;" />
  <br> 
  Dogs are man's best friend; it's a *tail* as old as time.
 
