@@ -32,28 +32,23 @@ There is a plethora of reasons for having a dog. Some of the more obvious reason
 <center><img src="/assets/post_photos/The Boys.jpg"
      alt="Me and The Boys"
      style="float: center;" /><br>
- <br> 
+ <br>
+
+<div style="text-align: left;">
+Besides being Man's best friend, there are health-related benefits to having a dog.
+
+## Bottom line up front 
 
 
 
-
-
-
-1. Companionship. They're always there for you.
-2. Affection. In general, pets are all about providing unconditional love.
-3. Entertainment. They are a joy to be around and love to play.
-
-Beyond these three general 'perks,' there are specific benefits to having a dog from a health perspective, which I discuss below.
-
-## Bottom line up front
-
-1. Dog ownership may increase physical activity levels.
+1. Dog ownership may increase physical activity levels
 2. Having a dog can improve your immune system (Hygiene hypothesis).
 3. Dogs may work as a 'free' pregnancy test.
 
 ## How having a dog improves your physical activity levels
 
 The 2018 United States Physical Activity Guidelines recommend at least 150 minutes/week of moderate-intensity or 75 minutes/week of vigorous-intensity of physical activity for substantial benefits. Despite this, 80% of US adults are not meeting these guidelines, contributing to the significant trends in NCD statistics. Given the prevalence of physical inactivity, there exists the call for creative public health messaging and programming aimed at promoting physical activity across the nation for all age groups.
+</div>
 
 > **"Blockquotes will be indented, italicized, and given a subdued light gray font. These are good for side comments not directly related to your content, or long quotations from external sources."** - Some Smart Guy
 
